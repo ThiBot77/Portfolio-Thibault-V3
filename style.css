@@ -7,20 +7,27 @@ nav {
 
 }
 
-header li {
+header ul {
 
-    float: right;
-    font-size: 1.2em;
+    float: left;
+    font-size: 17px;
 
     
 }
 
-header li a {
+#nav_name
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+
+}
+header ul a {
 
     text-decoration: none;
+    color: black;
     display: block;
     text-align: center;
-    padding: 18px 16px;
+    padding: 0px 1px;
 
 }
 
