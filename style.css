@@ -1,3 +1,5 @@
+/* NAV */ 
+
 nav {
 
     overflow: hidden;
@@ -11,16 +13,12 @@ header ul {
 
     float: left;
     font-size: 17px;
+    font-family: 'Raleway'; 
 
     
 }
 
-#nav_name
-{
-    font-family: 'Dancing Script', cursive;
-    font-size: 25px;
 
-}
 header ul a {
 
     text-decoration: none;
@@ -31,40 +29,24 @@ header ul a {
 
 }
 
-
-#name_title_nav
-{
-    color: black;
-    font-size: 200%;
-    font-family: 'Dancing Script', cursive;
-   
-
+/* Body */ 
+BODY
+{ 
+    padding: 0;
+    margin: 0;
 }
 
-#sidenav
-{
-
-    
-}
-
-html {
-    scroll-behavior: smooth;
-}
-
-#sidenav_section
-{
-    background-color: white;
-    
-   
-}
+/* About  */ 
 
 #about_section
 {
     background-color: #FAFAFA;
-    padding: 10px 0px 100px 0px;
+    padding: 40px 0px 40px 0px;
     text-align: center;
 
 }
+
+/* UTEC  */ 
 
 #utec_section
 {
@@ -74,21 +56,32 @@ html {
 
 }
 
-
-#name_title
+#chiffre_utec_section
 {
-    color: white;
-    font-family: 'Dancing Script', cursive;
+    background-color: white;
+    padding: 50px 0px 50px 0px;
     text-align: center;
-    font-size: 290%;
+
 }
 
-BODY
+
+#BTSSIO
 {
-    
-    padding: 0;
-    margin: 0;
+    text-align: center;
+    background-color: #FAFAFA;
+    padding: 10px 0px 100px 0px;
+
+
 }
+#SISR
+{
+    text-align: center;
+    background-color: white;
+    padding: 10px 0px 100px 0px;
+
+}
+
+/* Footer  */ 
 
 footer {
     background-color: white;
