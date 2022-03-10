@@ -59,11 +59,6 @@ html {
 
 }
 
-#sidenav
-{
-    
-
-}
 
 #name_title
 {
@@ -134,3 +129,7 @@ p
     
     h2 { font-size: 3rem; }
     
+#about_p
+{
+    padding: 0px 180px 0px 180px;
+}
