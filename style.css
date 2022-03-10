@@ -81,6 +81,32 @@ BODY
 
 }
 
+/* Abilitech Section  */ 
+
+#abilitech_section
+{
+    background-color: #FAFAFA;
+    padding: 100px 0px 100px 0px;
+    text-align: center;
+
+}
+
+#abilitech_prestation_section
+{
+    background-color: white;
+    padding: 10px 0px 100px 0px;
+    text-align: center;
+
+}
+
+#abilitech_alternance_section
+{
+    background-color: #FAFAFA;
+    padding: 10px 0px 100px 0px;
+    text-align: center;
+
+}
+
 /* Footer  */ 
 
 footer {
