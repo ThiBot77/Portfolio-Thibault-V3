@@ -51,7 +51,7 @@ BODY
 #utec_section
 {
     background-color: #FAFAFA;
-    padding: 10px 0px 100px 0px;
+    padding: 100px 0px 20px 0px;
     text-align: center;
 
 }
@@ -94,8 +94,7 @@ BODY
 #abilitech_prestation_section
 {
     background-color: white;
-    padding: 10px 0px 100px 0px;
-    text-align: center;
+    padding: 0px 0px 0px 0px;
 
 }
 
@@ -106,6 +105,20 @@ BODY
     text-align: center;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Footer  */ 
 
@@ -127,6 +140,8 @@ footer {
 
 }
 
+/* NAME HOME  */ 
+
 #name_section
 {
 
@@ -138,6 +153,10 @@ p
 
     font-size: 17px;
 }
+
+
+
+/* BACKGROUND VIDEO */ 
 
 
 #background-video {
@@ -163,7 +182,4 @@ p
     
     h2 { font-size: 3rem; }
     
-#about_p
-{
-    padding: 0px 180px 0px 180px;
-}
+
