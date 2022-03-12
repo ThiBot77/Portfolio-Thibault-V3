@@ -108,7 +108,7 @@ BODY
 #abilitech_alternance_section
 {
     background-color: #FAFAFA;
-    padding: 10px 0px 100px 0px;
+    padding: 10px 0px 10px 0px;
     text-align: center;
 
 }
@@ -142,7 +142,7 @@ BODY
 #veille_section
 {
     background-color: #FAFAFA;
-    padding: 50px 0px 20px 0px;
+    padding: 70px 0px 20px 0px;
     text-align: center;
 
 }
@@ -150,7 +150,7 @@ BODY
 #theme_veille_section
 {
     background-color: white;
-    padding: 50px 0px 20px 0px;
+    padding: 20px 0px 20px 0px;
     text-align: center;
 
 }
@@ -204,6 +204,9 @@ li
     font-size: 17px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
+
 
 /* BACKGROUND VIDEO */ 
 
@@ -271,15 +274,15 @@ li
         }
       
         .HD {
-            width: 45%;
+            width: 55%;
         }
 
         .LINUX {
-            width: 40%;
+            width: 60%;
         }
       
         .WINDOWS {
-            width: 55%;
+            width: 75%;
         }
 
         .HTML {
@@ -297,3 +300,11 @@ li
         .UNITY {
             width: 25%;
         }
+
+
+
+
+
+
+
+
