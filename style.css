@@ -272,19 +272,19 @@ li
 
 .skills {
   text-align: right; /* Right-align text */
-  padding-top: 10px; /* Add top padding */
-  padding-bottom: 10px; /* Add bottom padding */
-  color: white; /* White text color */
+  padding-top: 1px; /* Add top padding */
+  padding-bottom: 1px; /* Add bottom padding */
+  color: #FAFAFA; /* White text color */
   border-radius: 10px;
 }
 
-.réseau {width: 50%; background-color: #04AA6D;} /* Green */
-.HD {width: 50%; background-color: #04AA6D;} /* Green */
-.windows {width: 70%; background-color: #f44336;} /* Green */
-.linux {width: 50%; background-color: #f44336;} /* Green */
+.réseau {width: 50%; background-color: #2196F3;} /* Green */
+.HD {width: 50%; background-color: #2196F3;} /* Green */
+.windows {width: 70%; background-color: #2196F3;} /* Green */
+.linux {width: 50%; background-color: #2196F3;} /* Green */
 .html {width: 50%; background-color: #2196F3;} /* Blue */
 .C {width: 35%; background-color: #2196F3;} /* Red */
-.virtual {width: 60%; background-color: #808080;} /* Dark Grey */
+.virtual {width: 60%; background-color: #2196F3;} /* Dark Grey */
 
 
 
@@ -338,6 +338,7 @@ li
     opacity: 1;
     transition: 0.3s;
     margin-top: 20px;
+    border-radius: 10px;
   }
   
   .btn:hover {opacity: 0.6}
